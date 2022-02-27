@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by the Royalists near Huntington shire, against the Parliaments forces, and the manner of the Cavaliers ingaging them; with the particulars of the bloudy fight, and the number killed, wounded, and taken prisoners. Also, their dismounting of the Lord Cenerals [sic] troopers, their falshing and cutting of them and taking of divers horses and arms, and the name of the commanders in chief of the Kings forces. Likewise, joyfull newes from the Royall Navy, the desires of his Highness the Prince of VVales, the propositions of Prince Maurice, concerning the English ships, and a great victory obtained near Carlisle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85644</idno>
+            <idno type="STC">Wing G1785</idno>
+            <idno type="STC">Thomason E464_34</idno>
+            <idno type="STC">ESTC R205166</idno>
+            <idno type="EEBO-CITATION">99864602</idno>
+            <idno type="PROQUEST">99864602</idno>
+            <idno type="VID">116833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116833)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by the Royalists near Huntington shire, against the Parliaments forces, and the manner of the Cavaliers ingaging them; with the particulars of the bloudy fight, and the number killed, wounded, and taken prisoners. Also, their dismounting of the Lord Cenerals [sic] troopers, their falshing and cutting of them and taking of divers horses and arms, and the name of the commanders in chief of the Kings forces. Likewise, joyfull newes from the Royall Navy, the desires of his Highness the Prince of VVales, the propositions of Prince Maurice, concerning the English ships, and a great victory obtained near Carlisle.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. VV.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept ye 25th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>Royalists --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116833:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY Obtained by the ROYALISTS NEAR <hi>Huntington ſhire,</hi> againſt the Parliaments Forces, and the manner of the Cavaliers ingaging them; with the particulars of the bloudy Fight, and the number killed, wounded, and taken priſoners.</p>
+            <p>ALSO, Their diſmounting of the Lord Cenerals Troopers, their ſlaſhing and cutting of them, and taking of divers horſes and arms, and the name of the Commanders in chief of the Kings Forces.</p>
+            <p>LIKEWISE, Joyfull Newes from the Royall Navy, the Deſires of his Highneſs the Prince of <hi>VVales,</hi> the Propo<g ref="char:EOLhyphen"/>ſitions of Prince <hi>Maurice,</hi> concerning the Engliſh Ships, and a great Victory obtained near <hi>Carliſle.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R, VV.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <div type="letter">
+               <pb n="1" facs="tcp:116833:2"/>
+               <head>A VICTORY Obtained By the <hi>Kings Forces</hi> neer <hi>Huntington-ſhire;</hi> decla<g ref="char:EOLhyphen"/>ring the manner of their falling upon the par<g ref="char:EOLhyphen"/>liaments, and the particulars of the Fight.</head>
+               <opener>
+                  <salute>Right Honored,</salute>
+               </opener>
+               <p>THE Kings Forces in theſe parts, (being but a ſmall party) range the Countries round, and are become maſters of more then they are a<g ref="char:EOLhyphen"/>ble to carry away, having plundered divers well affe<g ref="char:EOLhyphen"/>cted in theſe parts, they are exceeding well mounted,
+<pb n="2" facs="tcp:116833:3"/>conſiſting of about twenty in number, one Captaine <hi>VVharton</hi> commanding in chiefe, a man of deſperate fortunes, and the reſt all Dammee Blades, who have declared, That they are reſolved to fight it out to the laſt man, rather then to ſubmit to the mercy either of parliament or army, or be taken by any Independent Rebell (as they are pleaſed to call them.)</p>
+               <p>On Tueſday laſt, the ſaid party marched towards the Confines of Cambridge ſhire, where they diſco<g ref="char:EOLhyphen"/>vered a party of horſe, inſomuch that Capt. <hi>VVharton</hi> immediatly advanced up to them, asked them what they were, and from whence they came; they anſwe<g ref="char:EOLhyphen"/>red, they belonged to the Lord General <hi>Fairfax:</hi> then <hi>VVharton</hi> replyed, you are all my priſoners: a Gentle<g ref="char:EOLhyphen"/>man at the head of the Parliaments party, made an<g ref="char:EOLhyphen"/>ſwer, Not ſo long as we are able to hold a ſword in one hand, and a piſtoll in the other; whereupon capt. <hi>VVharton</hi> fired, his forces came up, and both parties ingaged, the encounter was very hot, and the ground diſputed with much gallantry, <hi>VVharton</hi> charged like a Lion, and at laſt gained the day, being far more in number then the other, yet fought ſo long as they were able to make oppoſition, inſomuch that ſome of them are mortally wounded, the reſt all ſlaſht &amp; cut, their horſe and arms taken from them, their pockets plundered; which done, they bid them go to their Ge<g ref="char:EOLhyphen"/>nerall, and recruit. In this conflict two were ſlain, and four of the Cavalry wounded. We hear that the ſaid party intends Weſtward, to joyn with <hi>Byron,</hi> if it bee poſſible.</p>
+               <closer>
+                  <dateline>
+                     <hi>VVare</hi> 
+                     <date>22. Sept. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:116833:3"/>
+               <head>
+                  <hi>Ioyfull News from the Royal Navy, and their preſent Deſign touching the Earl of</hi> Warwick.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THere is like to be no engagement between the prince and the Earl of VVarwick, the firſt decli<g ref="char:EOLhyphen"/>ning an ingagement, &amp; not willing to fight; but much preſſed to weigh anchor, and reſolve for ſome other forraign Country.</p>
+               <p>Here hath lately happened ſome diſputations between his Highneſſe the Prince of <hi>VVales,</hi> and the Royall party with him, in relation how to diſpoſe of the Navy, and the Grandees have had ſome con<g ref="char:EOLhyphen"/>ſultation thereupon, in order thereunto for diſpoſing of the ſaid Fleet, not thinking themſelves or ſhips in ſo good a poſture, or uſefull a way where they are, becauſe, they conceive, if they ſhould plunder the <hi>London</hi> Marchants, they ſhould incur the diſpleaſure of the <hi>Metropolis,</hi> and for the future receive no ſuc<g ref="char:EOLhyphen"/>cour or relief from thence, but receive gratification by a power of oppoſition.</p>
+               <p>Beſides, the Lord high Admirall at Sea may be up<g ref="char:EOLhyphen"/>on the back of them before they be aware, the wind ſerving now to carry them from the Downs.</p>
+               <p>This buſineſſe took up ſome time in debate thereof and at laſt came to theſe reſults.</p>
+               <p>Divers of the Councell, as Prince <hi>Maurice.</hi> and o<g ref="char:EOLhyphen"/>thers, declared at the Councell table, That they con<g ref="char:EOLhyphen"/>ceiv'd it moſt neceſſary and requiſite, to weigh an<g ref="char:EOLhyphen"/>chor, and ſteer towards the kingdom of <hi>France,</hi> deli<g ref="char:EOLhyphen"/>vering ſeverall reaſons, wherein it tended moſt for the ſafety of the Navy, and the advancement of their Soveraigns Cauſe, if the Treaty took not effect.</p>
+               <pb n="4" facs="tcp:116833:4"/>
+               <p>The Lord <hi>VVilloughby,</hi> and others, moved for the North.</p>
+               <p>But Capt. <hi>Batten</hi> preſſeth much for <hi>Ireland,</hi> and its conceived his Propoſition will be aſſented to; which indeed, is the place of greateſt danger for <hi>England,</hi> and the moſt eminent place to advance the Cauſe of the Royall party.</p>
+               <p>The Lord <hi>Inchiquin</hi> being maſter of the field with a very conſiderable power, and (in all probability) will be ready to comply and joyn with the Prince; for it is generally reported here, that the Navy is in<g ref="char:EOLhyphen"/>vited thither by ſome great Ones, and that they have a deſign to joyn with them againſt <hi>England;</hi> Their chiefeſt aym were firſt at the United Provinces, to levy forces, being promiſed great matters; but fin<g ref="char:EOLhyphen"/>ding ſuch an unwillingneſſe amongſt the Netherlan<g ref="char:EOLhyphen"/>ders to ingage againſt <hi>England,</hi> they have changed their reſolution, and within few days will ſayle from <hi>Gorce.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Hague</hi> 
+                     <date>19. Sept. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A great Victory obtained neer Carliſle.</head>
+               <p>On Friday laſt they ſallied out of the City with a conſiderable party of Horſe and Dragoons, marched ſome few miles up into the Country, fell to their old trade of plundering, and had gathered great ſtore of cattell in a heard together; who even in the nicke of time as they were driving them away, a party of the Gen. <hi>Lanberts</hi> Horſe, came in to the Countries aſſi<g ref="char:EOLhyphen"/>ſtance, fell upon the Scots and Engliſh Cavalry, reſ<g ref="char:EOLhyphen"/>cued the cattell, and put divers of the enemy to the ſword, killing above 30 upon the place, and took neer upon as many priſoners, with the loſſe of eleven men, 5 ſlain, and 6 wounded.</p>
+               <pb facs="tcp:116833:4"/>
+               <p>The reſt of their Body retreated, and the night ap<g ref="char:EOLhyphen"/>proached, which much eclipſed the ſplendor of our Victory, and our horſes being tired, and the wayes dif<g ref="char:EOLhyphen"/>ficult, could not maintain the purſuit no further, ſo that they are now marching up to the head-quarters of Lieu. Gen. <hi>Crumwell,</hi> their Major Generall being likewiſe marching towards the Borders of Scotland with 3000 horſe, as alſo col. <hi>Whites</hi> and col. <hi>Hackers</hi> going after him with all ſpeed from the ſiege of Pon<g ref="char:EOLhyphen"/>tefract.</p>
+               <p>The Lieul. Gen. is likewiſe marching towards the Borders, and hath ſent the Biſhoprick horſe comman<g ref="char:EOLhyphen"/>ded by <hi>Major Sanderſon,</hi> and another of his own Re<g ref="char:EOLhyphen"/>giments by the way of <hi>Anwick,</hi> to diſſipate the Eng<g ref="char:EOLhyphen"/>liſh Enemy about <hi>Barwick,</hi> commanded by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Tildſley,</hi> and to fight them, or force them to a re<g ref="char:EOLhyphen"/>treat; and we hear that they have lately fallen upon ſome of their out-quarters five miles on this ſide <hi>Chil<g ref="char:EOLhyphen"/>lingham,</hi> killed ſome, and took divers priſoners, and have allarm'd the reſt, who (we hear) are uſing all means poſſible to eſcape their mercy, and deſire to move Weſtward, but it is believed, col. <hi>Lamberts</hi> For<g ref="char:EOLhyphen"/>ces will interpoſe between them and <hi>Carliſle,</hi> and fru<g ref="char:EOLhyphen"/>ſtrate their deſign of joyning with the Lord <hi>Byron</hi> in <hi>VVales.</hi>
+               </p>
+               <p>
+                  <hi>Monro</hi> is retreated into Scotland with all the Scots both Horſe and Foot, the Lord <hi>Lanerick</hi> is joyned with him with the additionall Forces, conſiſting of a<g ref="char:EOLhyphen"/>bout 3000. who upon their march towards <hi>Eden<g ref="char:EOLhyphen"/>burgh</hi> to the committee of Eſtates, received intelli<g ref="char:EOLhyphen"/>gence, that the ſaid committee were all forced from thence, the caſtle ſurprized by old Gen. <hi>Leven,</hi> and that the <hi>Marq. of Argyle</hi> with a great Army were en<g ref="char:EOLhyphen"/>tred the city; whereupon they changed their motion,
+<pb n="6" facs="tcp:116833:5"/>and is now marching towards the Weſt of Scotland; but Lieut. Gen. <hi>David Leſley</hi> having notice thereof ad<g ref="char:EOLhyphen"/>vanced with a conſiderable party of horſe, fell upon the Lord <hi>Lanericks</hi> Briggade, and diſperſed moſt of them.</p>
+               <p>Lieu. Gen. <hi>Crumwell</hi> is reſolved to ſend ſummons to Scotland for ſurrender of the Engliſh Garriſons to the obedience of the Parliament of England, and to have a mutuall correſpondency between both Na<g ref="char:EOLhyphen"/>tions.</p>
+               <p>By an Expreſſe from <hi>Holland</hi> Sept. 22. it is adver<g ref="char:EOLhyphen"/>tized, that the Seamen and Mariners in the revolted ſhips begin to mutiny, occaſioned by the late propo<g ref="char:EOLhyphen"/>ſals of ſome of his Highneſſes Councell of VVar, to weigh anchor, and ſayl for <hi>Ireland;</hi> this will cauſe a great breach in the Royall party.</p>
+               <p>The Prince having notice of the ſaid Inſurrection, declared very ſad expreſſions thereupon, and ſhak't his head, ſaying, That he hoped the Treaty would take good effect, and then he feared no revolt, deſiring that both Navies might joyn in mutuall love and amity, as formerly.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
